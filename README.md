@@ -38,7 +38,7 @@ The chatbot uses:
 2. Navigate to the project folder
 3. Run the chatbot using:
 
-```bash
+bash
 **python chatbot.py**
 
 **Type your queries** (e.g., _"Tell me about sustainability"_)
@@ -83,4 +83,8 @@ This chatbot was built as part of a learning assignment to reinforce:
 
 **Mark Wainaina Iraya**  
 *Python Learner / Software Engineering Student*
+
+
+
+
 
