@@ -1,0 +1,21 @@
+Item,Category,Selling Price,Stock
+Item_1,Beverages,1.48,45
+Item_2,Snacks,5.24,23
+Item_3,Dairy,2.65,64
+Item_4,Beverages,1.57,37
+Item_5,Snacks,10.6,13
+Item_6,Dairy,4.78,93
+Item_7,Dairy,8.97,67
+Item_8,Dairy,6.29,10
+Item_9,Snacks,14.26,53
+Item_10,Household,3.95,53
+Item_11,Beverages,2.76,22
+Item_12,Household,17.1,87
+Item_13,Household,16.34,68
+Item_14,Dairy,3.37,58
+Item_15,Beverages,11.49,90
+Item_16,Dairy,17.82,56
+Item_17,Dairy,4.65,18
+Item_18,Beverages,13.56,47
+Item_19,Beverages,17.25,22
+Item_20,Personal Care,6.28,91
